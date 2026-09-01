@@ -134,7 +134,7 @@ const page = ({
 export const seoPages = {
   home: page({
     path: "/",
-    title: "북오산자이 드포레 | 모델하우스·분양가·공급정보",
+    title: "북오산자이 드포레",
     description: siteSeo.defaultDescription,
     menu: "홈",
     priority: 1,
@@ -143,7 +143,7 @@ export const seoPages = {
 
   businessIntro: page({
     path: "/BusinessGuide/intro",
-    title: "사업안내 | 북오산자이 드포레 1,517세대 사업개요",
+    title: "사업안내 | 북오산자이 드포레",
     description:
       "북오산자이 드포레 사업안내입니다. 경기도 오산시 내삼미동 288번지 일원, 지하 2층~지상 최고 29층, 11개동, 총 1,517세대로 조성되는 민영 분양아파트의 사업개요와 주차대수, 사업주체 및 시공사를 확인하세요.",
     menu: "사업안내",
@@ -153,7 +153,7 @@ export const seoPages = {
 
   salesGuide: page({
     path: "/BusinessGuide/documents",
-    title: "공급안내 | 북오산자이 드포레 분양가·공급세대",
+    title: "공급안내 | 북오산자이 드포레",
     description:
       "북오산자이 드포레 공급안내입니다. 총 1,517세대의 59A·59B·74A·74B·74C·84A·84B·84C·99A·99B·124P·125P 타입별 공급세대수, 전용면적, 공급면적과 분양가 정보를 확인하세요.",
     menu: "분양안내",
@@ -162,7 +162,7 @@ export const seoPages = {
 
   announcement: page({
     path: "/SalesInfo/announcement",
-    title: "입주자모집공고 | 북오산자이 드포레 청약·계약조건",
+    title: "입주자모집공고 | 북오산자이",
     description:
       "2026년 6월 12일 공고된 북오산자이 드포레 입주자모집공고 안내입니다. 특별공급 720세대와 일반공급 797세대의 공급 대상, 주택형별 분양가, 청약 일정, 계약금·중도금·잔금 조건 및 유의사항을 확인하세요.",
     menu: "분양안내",
